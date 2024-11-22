@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "whatsappNumber": "6283840856644",
+      "whatsappNumber": "62895425873232",
       "password": "ezgt"
     },
     {
@@ -11,7 +11,7 @@
   ],
   "approvedUsers": [
     {
-      "whatsappNumber": "6283840856644",
+      "whatsappNumber": "62895425873232",
       "token": "ezgt123"
     },
     {
